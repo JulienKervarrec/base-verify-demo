@@ -5,6 +5,7 @@
     }
   },
   "buildCommand": "npm run vercel-build",
+  "installCommand": "npx npm@11 install",
   "env": {
     "PRISMA_GENERATE_SKIP_AUTOINSTALL": "true"
   }
