@@ -320,3 +320,8 @@ For more detailed information, see the `/docs` folder:
 
 **Want to integrate Base Verify?** Fill out the [interest form](https://forms.gle/6L4hWAHkojYcefz27) and we'll reach out with API access.
 
+
+
+## Parcours francais
+
+Une lecture pedagogique en francais de ce depot est disponible dans [docs/fr](docs/fr/README.md) : le message SIWE et les URNs de ressources, la validation des traits cote serveur, le flux hors-chaine avec Prisma, et la variante on-chain avec jeton EIP-712.
